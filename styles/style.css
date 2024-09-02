@@ -336,3 +336,44 @@ footer{
     height: 800px;
     color: #f5cb00;
 }
+@media screen and (max-width: 480px){
+    header{
+        width: 750px;
+    }
+    .div-1{
+        margin-right: 100px;
+    }
+    .div-4{
+        width: 600px;
+        height: 300px;
+    }
+    .div-5{
+        right: 0px;
+    }
+    #img2{
+        height: 200px;
+        margin-right: 0px;
+    }
+    #img3{
+        height: 250px;
+        left: 10px;
+    }
+    .img_porcen{
+        height: 150px;
+    }
+    h2{
+        width: 300px;
+    }
+    .aside-1{
+        width: 300px;
+        top: 0px;
+        left: 0px;
+    }
+    .section-1{
+        height: 550px;
+        width: 750px;
+    }
+    .section-2{
+        width: 750px;
+    }
+}
