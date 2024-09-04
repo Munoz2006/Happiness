@@ -338,17 +338,40 @@ footer{
 }
 @media screen and (max-width: 480px){
     header{
-        width: 750px;
+        width: 860px;
     }
     .div-1{
         margin-right: 100px;
     }
     .div-4{
-        width: 600px;
+        width: 710px;
         height: 300px;
     }
     .div-5{
         right: 0px;
+    }
+    .div-6{
+        width: 700px;
+        height: 300px;
+    }
+    .div-8{
+        margin-left: 15px;
+    }
+    .div-9{
+        left: -30px;
+        width: 300px;
+    }
+    .div-11{
+        margin-left: 100px;
+        width: 300px;
+    }
+    .div-10{
+        position: relative;
+        left: 50px;
+        width: 350px;
+    }
+    .form-1{
+        width: 350px;
     }
     #img2{
         height: 200px;
@@ -358,22 +381,102 @@ footer{
         height: 250px;
         left: 10px;
     }
+    #img4{
+        height: 300px;
+    }
+    #img5{
+        height: 150px;
+        left: 230px;
+        bottom: 100px;
+    }
+    #img6{
+        height: 250px;
+    }
+    #img7{
+        height: 350px;
+    }
+    #img8{
+        height: 300px;
+    }
+    .img5{
+        height: 400px;
+    }
     .img_porcen{
         height: 150px;
     }
     h2{
         width: 300px;
+        font-size: 40px;
+    }
+    .p-1{
+        width: 350px;
     }
     .aside-1{
         width: 300px;
-        top: 0px;
+        top: 50px;
+        left: 50px;
+    }
+    .aside-3{
+        width: 600px;
+        position: relative;
+        right: 230px;
+    }
+    .aside-5{
+        right: 50px;
+    }
+    .aside-2{
         left: 0px;
+        top: 50px;
+        width: 200px;
+    }
+    .input-1{
+        margin-top: 10px;
+        color: #ffff;
+        height: 30px;
+        width: 360px;
+    }
+    .input-2{
+        height: 100px;
+        color: #ffff;
+        margin-bottom : 10px;
+        width: 360px;
+    }
+    .input-3{
+        margin-top: 10px;
+        height: 30px;
+        width: 150px;
     }
     .section-1{
         height: 550px;
-        width: 750px;
+        width: 860px;
     }
     .section-2{
-        width: 750px;
+        width: 860px;
+    }
+    .section-3{
+        width: 860px;
+        height: 600px;
+    }
+    .section-4{
+        width: 860px;
+        height: 700px;
+    }
+    .section-5{
+        width: 860px;
+        height: 600px;
+    }
+    .section-6{
+        height: 600px;
+        width: 860px;
+    }
+    .section-7{
+        width: 860px;
+    }
+    .section-8{
+        width: 860px;
+        height: 700px;
+    }
+    footer{
+        width: 860px;
     }
 }
